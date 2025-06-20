@@ -3,7 +3,7 @@
 # Variables
 REPO_NAME="Bhadresh"
 GITHUB_USER="bhadresh14"
-GITHUB_URL="https://github.com/$GITHUB_USER/$REPO_NAME.git"
+GITHUB_URL="https://github.com/bhadresh14/Bhadresh.git"
 
 # Initialize git and push
 git init
